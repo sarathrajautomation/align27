@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-12T23:03:37 IST" name="Default suite" finished-at="2026-07-12T23:04:12 IST" duration-ms="34726">
+    <groups>
+    </groups>
+    <test started-at="2026-07-12T23:03:37 IST" name="Default test" finished-at="2026-07-12T23:04:12 IST" duration-ms="34726">
+      <class name="tests.login">
+        <test-method is-config="true" signature="baseSetup()[pri:0, instance:tests.login@62dae245]" started-at="2026-07-12T23:03:37 IST" name="baseSetup" finished-at="2026-07-12T23:03:53 IST" duration-ms="16071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method signature="launchApp()[pri:0, instance:tests.login@62dae245]" started-at="2026-07-12T23:03:53 IST" name="launchApp" finished-at="2026-07-12T23:04:11 IST" duration-ms="17591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:tests.login@62dae245]" started-at="2026-07-12T23:04:11 IST" name="closeSession" finished-at="2026-07-12T23:04:12 IST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- tests.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
